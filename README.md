@@ -83,6 +83,7 @@ python main.py
 >
 > ```
 > GEMINI_API_KEY=your-actual-api-key
+> GOOGLE_API_KEY=your-actual-api-key
 > ```
 
 ---
